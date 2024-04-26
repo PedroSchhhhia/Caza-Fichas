@@ -201,8 +201,6 @@ function draw()
     fill(0);
     textSize(13);
     textAlign(LEFT);
-    text("TP02 - Informática Aplicada 1 - cát. Bedoian - Turno Noche", 90, 100);
-    text("Universidad Nacional de las Artes - Artes Multimediales", 90, 120);
     text("Schiavi Iglesias, Pedro", 90, 160);
     text("Gracias por jugar a CAZA-FICHAS", 90, 200);
     pop();
